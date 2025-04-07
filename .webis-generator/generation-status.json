@@ -1,11 +1,96 @@
 {
-  "timestamp": "2025-04-07T21:55:23.851Z",
+  "timestamp": "2025-04-07T21:56:38.586Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 14,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout wrapper with RTL configuration"
+    },
+    {
+      "name": "NavigationHeader",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive header with logo, navigation menu, and booking button"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section for a hair salon with headline, subheadline, and booking CTA"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of salon services with images, descriptions and pricing"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive appointment booking system with calendar and form"
+    },
+    {
+      "name": "StylistsTeam",
+      "type": "team",
+      "status": "pending",
+      "description": "Showcase of salon's professional stylists with photos and specialties"
+    },
+    {
+      "name": "ProductsShowcase",
+      "type": "products",
+      "status": "pending",
+      "description": "Display of hair care products sold by the salon"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual gallery of haircuts and styles created by the salon"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about salon services and policies"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "pending",
+      "description": "Interactive map showing salon location with directions"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Carousel of customer reviews and testimonials"
+    },
+    {
+      "name": "PromotionsBanner",
+      "type": "promotions",
+      "status": "pending",
+      "description": "Highlighted special offers and promotions"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form for inquiries with validation"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, contact info, and social media"
+    }
+  ],
   "repoName": "webis-site-msprh-gma-1744060692396"
 }
