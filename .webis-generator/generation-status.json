@@ -1,8 +1,11 @@
 {
-  "projectName": "מספרה-גמא-2899",
-  "businessName": "מספרה גמא",
-  "created": "2025-04-07T21:54:59.804Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-07T21:55:23.851Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-msprh-gma-1744060692396"
 }
